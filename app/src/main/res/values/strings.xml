@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SettingsFragmentExample</string>
+
+    <string name="menu_settings_title">Settings</string>
+
+    <string name="pref_check_key" translatable="false">CheckBoxKey</string>
+    <string name="pref_check_title">CheckBoxExample</string>
+
+    <string name="pref_show_true">Shown</string>
+    <string name="pref_show_false">Hidden</string>
+
+    <string name="pref_list_key" translatable="false">ListPrefKey</string>
+    <string name="pref_list_title">ListPrefExample</string>
+
+    <string name="pref_list_red_label">Red</string>
+    <string name="pref_list_green_label">Green</string>
+    <string name="pref_list_blue_label">Blue</string>
+
+    <string name="pref_list_red_value" translatable="false">red</string>
+    <string name="pref_list_green_value" translatable="false">green</string>
+    <string name="pref_list_blue_value" translatable="false">blue</string>
+
+    <string name="pref_edit_key" translatable="false">EditPrefKey</string>
+    <string name="pref_edit_title">EditPrefExample</string>
+    <string name="pref_edit_default">1</string>
+
+
+
+
+</resources>
